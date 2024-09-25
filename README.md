@@ -18,7 +18,7 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,docker,wordpress,nodejs" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,docker,wordpress,nodejs,nextjs" /> 
 </div>
 
 
