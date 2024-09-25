@@ -1,14 +1,14 @@
 <img align="right" alt="" height="300px" src="./cloud.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Hello%2C+My+name+is+Isac+Gondim!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight700&size=20&pause=1000&color=BB00B4&random=false&width=435&height=50&lines=Hello%2C+My+name+is+Brian+Santiago!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left"> I work with Golang, Node.js, Git, Shell and Python. <br> I'm currently studying <strong>Higher Education</strong> and at the moment I'm working at MegaNuv with Cloud Computing automations. </p>
-<p align="left">💌 I'm always open to new contacts and opportunities! Don't hesitate to let me know if you have any questions, suggestions or just want to exchange ideas. I look forward to hearing from you! ⤵️</p>
+<p align="left"> I work with TypeScript, JavaScript, Tailwind CSS, HTML, and Next.js. <br> I'm currently working at MegaNuv as a Front-End Developer, focusing on creating modern and efficient web interfaces. </p>
+<p align="left">💌 I'm always open to new contacts and opportunities! Feel free to reach out if you have any questions, suggestions, or just want to exchange ideas. I look forward to connecting with you! ⤵️</p>
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isacnilson4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/isac-gondim-07a836227/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:briansantiagosu2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.)
 
 <h3 align="left">Nationality </h3>
 <p align="left">
@@ -18,31 +18,24 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,ts,js,debian,redhat,rabbitmq,py,go" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css,docker,wordpress,nodejs" /> 
 </div>
 
 
 <div align="center"><br>
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GomdimApps&theme=dark&hide_border=false)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=B-Sant7&theme=dark&hide_border=false)
 <br>
 
 <div style={{display: "flex"}}>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomdimApps&layout=compact&theme=dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Sant7&layout=compact&theme=dark" />
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomdimApps&show_icons=true&theme=dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-Sant7&show_icons=true&theme=dark" />
 </div>
 </div>
 </div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GomdimApps/GomdimApps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GomdimApps/GomdimApps/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GomdimApps/GomdimApps/output/github-contribution-grid-snake.svg">
-</picture>
 <br><br>
 
 ---
@@ -52,5 +45,5 @@
 </div>
 
 <p style="text-align: justify;">
-I'm passionate about technology and have always tried to create innovative solutions. I developed the Lia app for visually impaired students and co-created the RederWa ChatBot. As a Back-End Developer at MegaNuv, I specialize in system automation and homologation with JavaScript, SQL, Golang, shell and Python. I have experience in web development, cloud computing, managing virtual machines with Proxmox, configuring Linux environments and installing Windows systems. I'm currently learning about networking with MikroTik software and I'm looking for new technological challenges.
+I'm passionate about technology and constantly strive to create innovative solutions. As a Front-End Developer at MegaNuv, I specialize in building responsive and efficient user interfaces using TypeScript, JavaScript, Tailwind CSS, HTML, and Next.js. I have experience in web development, cloud computing, and collaborating with back-end teams to deliver seamless applications. Currently, I'm deepening my knowledge in UI/UX design and looking for new technological challenges that push the boundaries of front-end development.
 </p>
