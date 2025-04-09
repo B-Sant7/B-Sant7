@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight700&size=20&pause=1000&color=BB00B4&random=false&width=435&height=50&lines=Hello%2C+My+name+is+Brian+Santiago!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left"> I work with TypeScript, JavaScript, Tailwind CSS, HTML, and Next.js. <br> I'm currently working at MegaNuv as a Front-End Developer, focusing on creating modern and efficient web interfaces. </p>
-<p align="left">💌 I'm always open to new contacts and opportunities! Feel free to reach out if you have any questions, suggestions, or just want to exchange ideas. I look forward to connecting with you! ⤵️</p>
+<p align="left"> I'm always open to new contacts and opportunities! Feel free to reach out if you have any questions, suggestions, or just want to exchange ideas. I look forward to connecting with you! ⤵️</p>
 
 <h3 align="left">Connect with me!</h3>
 
